@@ -1,13 +1,5 @@
 dfdf
 
-ddffcc
+ddff
 
-<<<<<<< HEAD
-ff fdf
-=======
-ffhhh
-
-Hello world!!!!!!!!!!!
-ffff
-vvv
->>>>>>> 7a0e68f6fcdf8b66e7175ede1787d6e23a79dd6c
+ff fdfTest!123
